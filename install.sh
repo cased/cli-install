@@ -3,7 +3,7 @@ set -u
 
 rm -rf guard-client
 git clone https://github.com/cased/guard tmp-guard
-cd guard-client
+cd tmp-client
 
 ./install
 cd ..
