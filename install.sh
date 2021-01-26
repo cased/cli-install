@@ -2,7 +2,7 @@
 set -u
 set -e
 
-trap 'message' ERR
+trap '[cased-install] error' ERR
 
 message() {
   echo "[cased-install] An error has occurred. If you received a 'Permission Denied' error, you may need to run this script as sudo."
