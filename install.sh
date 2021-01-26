@@ -9,7 +9,7 @@ message() {
   echo "[cased-install] Please also visit https://docs.cased.com/docs/troubleshooting for more help."
 }
 
-rm -rf tmp-guard
+rm -rf /tmp/tmp-guard
 git clone https://github.com/cased/guard /tmp/tmp-guard
 cd /tmp/tmp-guard
 
