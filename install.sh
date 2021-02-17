@@ -10,7 +10,7 @@ message() {
 }
 
 rm -rf /tmp/tmp-guard
-git clone https://github.com/cased/guard /tmp/tmp-guard
+git clone https://github.com/cased/cli /tmp/tmp-guard
 cd /tmp/tmp-guard
 
 ./install
