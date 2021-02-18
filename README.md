@@ -1,3 +1,3 @@
-# guard-install
+# cli-install
 
-Installs [Cased Guard](https://cased.com/guard). See the project repo: [cased/guard](https://github.com/cased/guard).
+Installs [Cased CLI](https://cased.com/cli). See the project repo: [cased/cli](https://github.com/cased/cli).
